@@ -1,5 +1,8 @@
 == Development (master)
 
+== 1.99.0 (unreleased)
+  * Deprecate DC.orm= and DC::Base#orm=: https://github.com/DatabaseCleaner/database_cleaner/pull/643
+
 == 1.8.4 2020-04-02
 
 === Bug Fixes
